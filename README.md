@@ -16,8 +16,6 @@ The first & second parameter in the "mapSettings.csv" is the start & end index o
 >:::::::::::::::::::::
 </br>
 </br>
-</br>
-</br>
 
 The third parameter in the "mapSettings.csv" is if you want a specific status on the beatmap as a parameter, eg. 'Ranked', 'Loved', etc...
 
