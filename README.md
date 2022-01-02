@@ -36,3 +36,11 @@ The third parameter in the "mapSettings.csv" is if you want a specific status on
 >
 >This cooldown is to prevent DDoS attacks, and there is unfortunatly not anything i can do to prevent this from triggering. This cooldown causes a error with the program, and henche makeing the program not funcion properly for a breif perod of time. I dont have any excact data on how long this cooldown is, but you usually can accsess the webiste after 10-20min of getting this cooldown.</br>
 >:::::::::::::::::::::
+</br>
+</br>
+
+The forth parameter in the "mapSettings.csv" is the run mode. **This is only ment for debugging!**
+
+>:: NOTE! ::::::::::::</br>
+>If you've accidentally changed it, simply set the last parameter to **0**, now if you for some reason want to run the program in debug mode, change this parameter to **1**</br>
+>:::::::::::::::::::::
