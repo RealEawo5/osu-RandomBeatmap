@@ -5,7 +5,7 @@
 To use the program, bind the "randomMap.py" to a key or button on either your mouse or keyboard.
 
 >:: NOTE! ::::</br>
->If you find it annoying the a console window pops open every time you run the program, or the program seems to be working but doesn't type anything out in the osu chat; try adding a 'w' at the end of the file extention.</br>
+>If you find it annoying the a console window pops open every time you run the program, or the program seems to be working but doesn't type anything out in the osu! chat; try adding a 'w' at the end of the file extention.</br>
 ></br>
 >**_randomMap.py_** -> **_randomMap.pyw_**</br>
 ></br>
