@@ -4,6 +4,14 @@
 
 To use the program, bind the "randomMap.py" to a key or button on either your mouse or keyboard.
 
+>:: NOTE! ::::</br>
+>If you find it annoying the a console window pops open every time you run the program, or the program seems to not be working; try adding a 'w' at the end of the file extention.</br>
+></br>
+>**_randomMap.py_** -> **_randomMap.pyw_**</br>
+></br>
+>If the program still doesn't work, then there is probably an issue with the libraries. The only fix to this that i know of is just to install the latest version of python via https://www.python.org/downloads/. If you do decide to download python, **_REMEBER TO CHECK OFF 'Add variable to Path' IN THE INSTALLATION PROCESS!_**</br>
+>:::::::::::::::::::::
+
 
 # mapSettins.csv
 
@@ -42,5 +50,5 @@ The third parameter in the "mapSettings.csv" is if you want a specific status on
 The forth parameter in the "mapSettings.csv" is the run mode. **This is only ment for debugging!**
 
 >:: NOTE! ::::::::::::</br>
->If you've accidentally changed it, simply set the last parameter to **0**, now if you for some reason want to run the program in debug mode, change this parameter to **1**</br>
+>If you've accidentally changed it, simply set the last parameter to **0**, now if you for some reason want to run the program in debug mode, change this parameter to **1**.</br>
 >:::::::::::::::::::::
